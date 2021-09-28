@@ -1,6 +1,5 @@
 # PostMe_Social_Network_App
 
-+ Around: a Cloud and React based Social Network
 # Frontend
 + Designed and implemented a social network web application with React JS. 
 + Implemented features for users to create and browse posts and support search nearby posts.
